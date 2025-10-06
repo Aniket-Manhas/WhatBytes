@@ -44,5 +44,5 @@ Built using **Node.js**, **Express**, **Sequelize (PostgreSQL ORM)**, and **JWT*
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/healthcare-backend.git
+   git clone https://github.com/Aniket-Manhas/WhatBytes.git
    cd healthcare-backend
